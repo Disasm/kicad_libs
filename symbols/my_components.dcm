@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Arduino_GSM_Shield
+D GSM Shield for Arduino
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-uno-rev3
+$ENDCMP
+#
+#End Doc Library
