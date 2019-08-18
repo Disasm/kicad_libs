@@ -6,4 +6,8 @@ K Arduino MPU Shield
 F https://store.arduino.cc/arduino-uno-rev3
 $ENDCMP
 #
+$CMP WeActBoard
+D WeAct V1.2 Board (BluePill clone)
+$ENDCMP
+#
 #End Doc Library
